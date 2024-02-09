@@ -1,4 +1,4 @@
-#Gross and Net salary of an Employee.
+#Gross and Net salary of an Employe.
 ecode=int(input("Employee Code:"))
 ename=input("Employee Name:")
 bsalary=int(input("Basic Salary:"))
